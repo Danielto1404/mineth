@@ -1,0 +1,2 @@
+# mineth
+Ethereum minting bot 🍌 🔥
