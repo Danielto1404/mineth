@@ -3,7 +3,7 @@
 This repository provides a code for deploying it on server and calling from your local network.
 
 Already done ✅:
-  – Custom RPC URL
+  - Custom RPC URL
   
 <br>
 
