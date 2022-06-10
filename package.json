@@ -1,0 +1,21 @@
+{
+  "name": "mineth",
+  "version": "1.0.0",
+  "description": "Ethereum bot for minting NFTs",
+  "main": "start.ts",
+  "repository": "https://github.com/Danielto1404/mineth.git",
+  "author": "danielto1404 <daniilkorolev00@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "dependencies": {
+    "ethers": "^5.6.8",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.41",
+    "typescript": "^4.7.3"
+  }
+}
